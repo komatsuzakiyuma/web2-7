@@ -1,4 +1,4 @@
-/
+
 //答えを用意
 
 var nuber=Math.floor(Math.random()*3);
